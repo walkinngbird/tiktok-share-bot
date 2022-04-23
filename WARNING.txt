@@ -1,0 +1,15 @@
+THIS IS A WARNING FOR ANYONE USING THIS BOT!
+If you try to run the .exe with windows virus protection enabled, the file will not start and it will be deleted from your computer.
+If you would like to take the risk and continue on, you must temporaily disbale windows virus protection. These are the steps to do so.
+1) Open up your windows settings
+2) Go to "Privacy and Security" then "Windows Security"
+3) Then click on "Virus and Threat Protection"
+4) This should open a new window
+5) In this window, you should see a subheading "Virus and Threat Protection Settings", click on the button manage settings underneath it
+6) There should be a massive first option called "Real-time Protection", you'll want to turn this off. Don't worry, Windows will automatically turn this back on so you
+won't have to worry about malware getting on your pc.
+7) Open the Tiktok.exe file
+8) You should get another window where Windows is warning you that they are unsure if this file is safe. This shows up since I am unable to pay $500 to Microsoft for a
+certificate for the file.
+9) You should see a button called something "More info"
+10) After clicking this, you should see "Run anyway" or "Run" at the bottom of the window.
